@@ -23,8 +23,3 @@
 
 ### git
 [![Prueba-Git.png](https://i.postimg.cc/J0XR80js/Prueba-Git.png)](https://postimg.cc/MfzCbWPw)
-
-
-#### Posdata: el comando de tabla de indice dinamica si funciona en el "editor.md", sin embrago no se porque no funciona en github :v
-
-#### Att: Hernan Javier Casilimas Vega
